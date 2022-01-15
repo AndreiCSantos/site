@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+body{
+    background-color: #0066ff71;
+    margin: 0px;
+}
+
+header{
+    text-align: center;
+    background-color: rgba(12, 73, 165, 0.945);
+    padding: 10px 0px 10px 0px;
+    color: white;
+    margin-bottom: 0px;
+    
+}
+
+main{
+    background-color: white;
+    width: 500px;
+    text-align: justify;
+    margin: auto;
+    padding: 20px;
+}
+
+h1{
+    color: rgb(66, 160, 121);
+}
+
+.cabecalho {
+    color: white;
+}
+
+h2{
+    background-color: rgba(23, 99, 185, 0.274);
+}
+
+.tabelacab {
+    color: white;
+    background-color: rgb(38, 38, 207);
+    border-radius: 10px 10px 0px 0px;
+   
+}
+
+.tabelacont {
+    background-color:rgba(25, 116, 236, 0.199);
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
